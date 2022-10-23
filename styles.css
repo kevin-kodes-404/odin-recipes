@@ -1,0 +1,45 @@
+/* style.css */
+
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.title, .subtitle {
+    background-color: #000000;
+    text-align: center;
+}
+
+.title {
+    color: #7fffd4;
+}
+
+.subtitle {
+    color: #ffff00;
+    background-color: #808080;
+}
+.link {
+    background-color: #ffa500;
+}
+
+ol li {
+    font-weight: 200;
+    font-size: 12px;
+}
+
+li {
+    text-align: center;
+    font-size: 25px;
+    background-color: #ffff00;
+}
+
+.description {
+    background-color: #ffc0cb;
+    color: #800080;
+    text-align: left;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+}
+
